@@ -47,7 +47,7 @@ I love building real-world ML projects and solving business problems using data.
 
 ## 📊 GitHub Stats  
 
-![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachinsharma19112003&show_icons=true&theme=radical)
+![Sachin's GitHub stats](https://github.com/sachinsharma19112003/sachinsharma19112003&show_icons=true&theme=radical)
 
 ---
 
